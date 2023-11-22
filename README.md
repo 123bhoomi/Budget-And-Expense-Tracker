@@ -18,3 +18,6 @@ https://speech-based-expense-tracker.netlify.app/
   Navigate to `localhost:3000` on your browser
 
 ![image](https://github.com/123bhoomi/Budget-And-Expense-Tracker/assets/79978855/b65c29b5-ea95-4e2c-be6a-24a031177e18)
+
+![image](https://github.com/123bhoomi/Budget-And-Expense-Tracker-using-AI/assets/79978855/81cf5f52-e9b9-4afc-8f5b-dc52dae44f1c)
+
