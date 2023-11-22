@@ -1,6 +1,9 @@
 # Budget-And-Expense-Tracker USING AI
 This project is a Budget Expense Tracker using Speechly, which is speech powered by AI.Users can track their daily income and expenses using this project.
 
+## Tech-Stack ##
+React , Context API , Local Storage , Speechly , Material UI
+
 ### Description  ##
   It is a simple expense tracker app which supports speech recognition for quick input. You can enter your incomes/expenses with your voice.i.e no need to type.It will help you to note,delete and categorize your incomes/expenses for easy budget management.
 
