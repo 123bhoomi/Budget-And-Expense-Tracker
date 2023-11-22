@@ -17,3 +17,4 @@ https://speech-based-expense-tracker.netlify.app/
   Run `npm start` to start the react app<br>
   Navigate to `localhost:3000` on your browser
 
+![image](https://github.com/123bhoomi/Budget-And-Expense-Tracker/assets/79978855/b65c29b5-ea95-4e2c-be6a-24a031177e18)
