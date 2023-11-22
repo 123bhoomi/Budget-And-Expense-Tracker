@@ -1,4 +1,4 @@
-# Budget-And-Expense-Tracker
+# Budget-And-Expense-Tracker USING AI
 This project is a Budget Expense Tracker using Speechly, which is speech powered by AI.Users can track their daily income and expenses using this project.
 
 ### Description  ##
